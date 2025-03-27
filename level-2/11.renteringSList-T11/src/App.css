@@ -1,0 +1,48 @@
+body {
+  background: linear-gradient(1545deg, #9c35d3, #777ce7, #8bade4, #cf596d, #810740, #d80808,#9c35d3);
+  background-size: 300% 400%;
+  animation: gradientBG 15s ease infinite;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Background Animation */
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Modify div style for better appearance */
+div {
+  background-color: white;
+  border-radius: 20px;
+  width: 250px;
+  padding: 1rem;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out;
+}
+
+div:hover {
+  transform: scale(1.05);
+}
+
+/* Adjustments for better text visibility */
+h2 {
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  font-size: 1.2rem;
+  color: #444;
+  padding: 8px;
+}
