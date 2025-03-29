@@ -1,0 +1,11 @@
+const fs = require('fs');
+const testFilePath = './testFile.txt';
+
+fs.writeFile(testFilePath, 'This is a test file to be monitored.', (err) => {
+  if (err) {
+    console.error('Error creating the test file:', err);
+    return;
+  }
+  console.log('Test file created successfully!');
+});
+s
