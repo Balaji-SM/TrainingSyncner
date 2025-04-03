@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67ee36d848be5659719caf1d"
+  },
+  "name": "J.K. Rowling",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-139536000000"
+    }
+  },
+  "nationality": "British",
+  "biography": "J.K. Rowling is a British author, best known for writing the Harry Potter series.",
+  "books": [
+    {
+      "$oid": "67ee36cf48be5659719caf13"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ee36d848be5659719caf1e"
+  },
+  "name": "George Orwell",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-2099260800000"
+    }
+  },
+  "nationality": "British",
+  "biography": "George Orwell was an English novelist, essayist, journalist, and critic.",
+  "books": [
+    {
+      "$oid": "67ee36cf48be5659719caf14"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ee36d848be5659719caf1f"
+  },
+  "name": "J.R.R. Tolkien",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-2461276800000"
+    }
+  },
+  "nationality": "British",
+  "biography": "J.R.R. Tolkien was an English writer, best known for the Lord of the Rings trilogy.",
+  "books": [
+    {
+      "$oid": "67ee36cf48be5659719caf15"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ee36d848be5659719caf20"
+  },
+  "name": "Agatha Christie",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-2502316800000"
+    }
+  },
+  "nationality": "British",
+  "biography": "Agatha Christie was an English writer known for her detective novels, particularly those featuring Hercule Poirot and Miss Marple.",
+  "books": [
+    {
+      "$oid": "67ee36cf48be5659719caf16"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ee36d848be5659719caf21"
+  },
+  "name": "Haruki Murakami",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-661737600000"
+    }
+  },
+  "nationality": "Japanese",
+  "biography": "Haruki Murakami is a contemporary Japanese writer, known for his surreal and magical realist works.",
+  "books": [
+    {
+      "$oid": "67ee36cf48be5659719caf17"
+    }
+  ]
+}]
