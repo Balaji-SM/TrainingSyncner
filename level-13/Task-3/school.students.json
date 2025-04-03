@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "67ece3a9e63956992f5b9009"
+  },
+  "name": "pani malar",
+  "age": 20,
+  "grade": "A",
+  "subjects": [
+    "History",
+    "Math",
+    "Art",
+    "music",
+    "drawing"
+  ],
+  "address": {
+    "street": "new bustand",
+    "city": "thanjavur",
+    "state": "Tamil Nadu"
+  },
+  "city": "orathanadu",
+  "stats": "Active"
+},
+{
+  "_id": {
+    "$oid": "67ece3a9e63956992f5b900a"
+  },
+  "name": "nisha",
+  "age": 16,
+  "grade": "B",
+  "subjects": [
+    "Physics",
+    "Chemistry",
+    "Math",
+    "bio"
+  ],
+  "address": {
+    "street": "medical college street",
+    "city": "thanjavur",
+    "state": "Tamil Nadu"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ece3a9e63956992f5b900b"
+  },
+  "name": "swetha",
+  "age": 17,
+  "grade": "A",
+  "subjects": [
+    "Biology",
+    "Chemistry",
+    "English",
+    "phycics",
+    "history"
+  ],
+  "address": {
+    "street": "ganapathi street",
+    "city": "coimbatore",
+    "state": "Tamil Nadu"
+  },
+  "city": "orathanadu",
+  "stats": "Active"
+},
+{
+  "_id": {
+    "$oid": "67ece3a9e63956992f5b900c"
+  },
+  "name": "balaji A",
+  "age": 15,
+  "grade": "A",
+  "subjects": [
+    "tamil",
+    "English",
+    "maths",
+    "social",
+    "science"
+  ],
+  "address": {
+    "street": "north street",
+    "city": "orathanadu",
+    "state": "Tamil Nadu"
+  },
+  "city": "orathanadu",
+  "stats": "Active"
+}]
