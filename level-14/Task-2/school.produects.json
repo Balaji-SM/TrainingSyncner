@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "67ee2a7dd563bec5d52723f0"
+  },
+  "name": "acer",
+  "price": 57000,
+  "category": "laptop"
+},
+{
+  "_id": {
+    "$oid": "67ee2c5205e8d2cbd8a113cc"
+  },
+  "name": "acer",
+  "price": 57000,
+  "category": "laptop",
+  "stock": 20
+},
+{
+  "_id": {
+    "$oid": "67ee2c6905e8d2cbd8a113cd"
+  },
+  "name": "vivo",
+  "price": 15000,
+  "category": "mobile",
+  "stock": 100
+},
+{
+  "_id": {
+    "$oid": "67ee2c8a05e8d2cbd8a113ce"
+  },
+  "name": "oppo",
+  "price": 14000,
+  "category": "mobile",
+  "stock": 200
+},
+{
+  "_id": {
+    "$oid": "67ee2ca805e8d2cbd8a113cf"
+  },
+  "name": "apple",
+  "price": 25000,
+  "category": "watch",
+  "stock": 150
+},
+{
+  "_id": {
+    "$oid": "67ee2f7805e8d2cbd8a113d6"
+  },
+  "name": "casio",
+  "price": 800,
+  "category": "calculator",
+  "stock": 2000
+},
+{
+  "_id": {
+    "$oid": "67ee2f7805e8d2cbd8a113d7"
+  },
+  "name": "samsung",
+  "price": 45000,
+  "category": "LED TV",
+  "stock": 50
+},
+{
+  "_id": {
+    "$oid": "67ee2f7805e8d2cbd8a113d8"
+  },
+  "name": "artel",
+  "price": 1500,
+  "category": "setabox",
+  "stock": 400
+},
+{
+  "_id": {
+    "$oid": "67ee2f8105e8d2cbd8a113d9"
+  },
+  "name": "Wireless Headphones",
+  "price": 100,
+  "category": "Headphone",
+  "stock": 200
+},
+{
+  "_id": {
+    "$oid": "67ee2f8105e8d2cbd8a113da"
+  },
+  "name": "Bluetooth Speaker",
+  "price": 500,
+  "category": "speakers",
+  "stock": 50
+},
+{
+  "_id": {
+    "$oid": "67ee2f8105e8d2cbd8a113db"
+  },
+  "name": "Gaming Mouse",
+  "price": 400,
+  "category": "Mouse",
+  "stock": 20
+}]

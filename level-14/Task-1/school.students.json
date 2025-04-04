@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "67ece3a9e63956992f5b9009"
+  },
+  "name": "pani malar",
+  "age": 20,
+  "grade": "12\n",
+  "subjects": [
+    "History",
+    "Math",
+    "Art",
+    "music",
+    "drawing"
+  ],
+  "address": {
+    "street": "new bustand",
+    "city": "thanjavur",
+    "state": "Tamil Nadu"
+  },
+  "city": "orathanadu",
+  "stats": "Active"
+},
+{
+  "_id": {
+    "$oid": "67ece3a9e63956992f5b900a"
+  },
+  "name": "nisha",
+  "age": 16,
+  "grade": "B",
+  "subjects": [
+    "Physics",
+    "Chemistry",
+    "Math",
+    "bio"
+  ],
+  "address": {
+    "street": "medical college street",
+    "city": "thanjavur",
+    "state": "Tamil Nadu"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ece3a9e63956992f5b900b"
+  },
+  "name": "swetha",
+  "age": 17,
+  "grade": "A",
+  "subjects": [
+    "Biology",
+    "Chemistry",
+    "English",
+    "phycics",
+    "history"
+  ],
+  "address": {
+    "street": "ganapathi street",
+    "city": "coimbatore",
+    "state": "Tamil Nadu"
+  },
+  "city": "orathanadu",
+  "stats": "Active"
+},
+{
+  "_id": {
+    "$oid": "67ece3a9e63956992f5b900c"
+  },
+  "name": "balaji A",
+  "age": 15,
+  "grade": "A",
+  "subjects": [
+    "tamil",
+    "English",
+    "maths",
+    "social",
+    "science"
+  ],
+  "address": {
+    "street": "north street",
+    "city": "orathanadu",
+    "state": "Tamil Nadu"
+  },
+  "city": "orathanadu",
+  "stats": "Active"
+},
+{
+  "_id": {
+    "$oid": "67ed3706607910ea2df4fa99"
+  },
+  "name": "Balaji",
+  "age": 17,
+  "grade": 11,
+  "subjects": [
+    "Mathematics",
+    "English",
+    "Art"
+  ],
+  "address": {
+    "street": "north",
+    "city": "thanjavur",
+    "state": "Tamil Nadu"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ed3706607910ea2df4fa9a"
+  },
+  "name": "adhithya",
+  "age": 16,
+  "grade": 10,
+  "subjects": [
+    "Biology",
+    "Chemistry",
+    "Mathematics"
+  ],
+  "address": {
+    "street": "south",
+    "city": "coimbatore",
+    "state": "Tamil Nadu"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ed3706607910ea2df4fa9b"
+  },
+  "name": "Sanjay",
+  "age": 18,
+  "grade": 12,
+  "subjects": [
+    "Physics",
+    "Computer Science",
+    "Mathematics"
+  ],
+  "address": {
+    "street": "orathanadu",
+    "city": "orathanadu",
+    "state": "Tamil Nadu"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ed3706607910ea2df4fa9c"
+  },
+  "name": "Mukilan",
+  "age": 18,
+  "grade": 11,
+  "subjects": [
+    "History",
+    "Mathematics",
+    "Economics"
+  ],
+  "address": {
+    "street": "west",
+    "city": "thanjavur",
+    "state": "Tamil Nadu"
+  }
+}]
