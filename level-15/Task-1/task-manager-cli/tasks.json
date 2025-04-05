@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Finish Math Homework",
+    "status": "completed"
+  },
+  {
+    "id": 2,
+    "status": "pending",
+    "dueDate": ""
+  }
+]
