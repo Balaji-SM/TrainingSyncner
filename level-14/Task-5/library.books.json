@@ -1,0 +1,212 @@
+[{
+  "_id": {
+    "$oid": "67ee36cf48be5659719caf13"
+  },
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "published_date": {
+    "$date": "1997-06-26T00:00:00.000Z"
+  },
+  "ISBN": "978-0439708180",
+  "page_count": 309,
+  "genres": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "publisher": {
+    "name": "Bloomsbury",
+    "address": "London, UK",
+    "contact_info": "contact@bloomsbury.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ee36cf48be5659719caf14"
+  },
+  "title": "1984",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-649036800000"
+    }
+  },
+  "ISBN": "978-0451524935",
+  "page_count": 328,
+  "genres": [
+    "Dystopian",
+    "Political Fiction"
+  ],
+  "publisher": {
+    "name": "Secker & Warburg",
+    "address": "London, UK",
+    "contact_info": "contact@seckerwarburg.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ee36cf48be5659719caf15"
+  },
+  "title": "The Hobbit",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-1018656000000"
+    }
+  },
+  "ISBN": "978-0345339683",
+  "page_count": 310,
+  "genres": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "publisher": {
+    "name": "George Allen & Unwin",
+    "address": "London, UK",
+    "contact_info": "contact@allenunwin.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ee36cf48be5659719caf16"
+  },
+  "title": "Murder on the Orient Express",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-1136073600000"
+    }
+  },
+  "ISBN": "978-0062693662",
+  "page_count": 256,
+  "genres": [
+    "Crime",
+    "Mystery"
+  ],
+  "publisher": {
+    "name": "Collins Crime Club",
+    "address": "London, UK",
+    "contact_info": "contact@collinscrime.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ee36cf48be5659719caf17"
+  },
+  "title": "Norwegian Wood",
+  "published_date": {
+    "$date": "1987-09-04T00:00:00.000Z"
+  },
+  "ISBN": "978-0375704024",
+  "page_count": 400,
+  "genres": [
+    "Fiction",
+    "Romance"
+  ],
+  "publisher": {
+    "name": "Kodansha",
+    "address": "Tokyo, Japan",
+    "contact_info": "contact@kodansha.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ee36cf48be5659719caf18"
+  },
+  "title": "The Casual Vacancy",
+  "published_date": {
+    "$date": "2012-09-27T00:00:00.000Z"
+  },
+  "ISBN": "978-0316334754",
+  "page_count": 512,
+  "genres": [
+    "Drama",
+    "Political Fiction"
+  ],
+  "publisher": {
+    "name": "Little, Brown and Company",
+    "address": "New York, USA",
+    "contact_info": "contact@littlebrown.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ee36cf48be5659719caf19"
+  },
+  "title": "Animal Farm",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-769219200000"
+    }
+  },
+  "ISBN": "978-0451526342",
+  "page_count": 112,
+  "genres": [
+    "Political Satire",
+    "Dystopian"
+  ],
+  "publisher": {
+    "name": "Secker & Warburg",
+    "address": "London, UK",
+    "contact_info": "contact@seckerwarburg.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ee36cf48be5659719caf1a"
+  },
+  "title": "The Fellowship of the Ring",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-486864000000"
+    }
+  },
+  "ISBN": "978-0547928210",
+  "page_count": 423,
+  "genres": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "publisher": {
+    "name": "George Allen & Unwin",
+    "address": "London, UK",
+    "contact_info": "contact@allenunwin.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ee36cf48be5659719caf1b"
+  },
+  "title": "The Secret Adversary",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-1514764800000"
+    }
+  },
+  "ISBN": "978-0062073586",
+  "page_count": 312,
+  "genres": [
+    "Crime",
+    "Detective"
+  ],
+  "publisher": {
+    "name": "The Bodley Head",
+    "address": "London, UK",
+    "contact_info": "contact@bodleyhead.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ee36cf48be5659719caf1c"
+  },
+  "title": "Kafka on the Shore",
+  "published_date": {
+    "$date": "2002-03-20T00:00:00.000Z"
+  },
+  "ISBN": "978-1400079278",
+  "page_count": 467,
+  "genres": [
+    "Fiction",
+    "Magical Realism"
+  ],
+  "publisher": {
+    "name": "Alfred A. Knopf",
+    "address": "New York, USA",
+    "contact_info": "contact@alfredknopf.com"
+  }
+}]
